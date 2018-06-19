@@ -9,4 +9,4 @@
 <h2>build www</h2>
 <b>npm run build</b>
 
-<h3><a href="http://www.aquecendooinverno.com.br/">Link mapa dos pontos de coleta da Campanha do Agasalho(em desenvolvimento)</a></h3>
+<h3><a href="http://www.aquecendooinverno.com.br/" target="_blank">Link mapa dos pontos de coleta da Campanha do Agasalho(em desenvolvimento)</a></h3>
