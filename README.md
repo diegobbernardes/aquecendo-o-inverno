@@ -1,9 +1,9 @@
 - Instalar ionic
-npm install -g ionic cordova
+- <b>npm install -g ionic cordova</b>
 - entrar na pasta
 - instalar dependencias 
-npm install 
+- <b>npm install</b>
 - iniciar server
-ionic serve
+- <b>ionic serve</b>
 - build www
-npm run build
+- <b>npm run build</b>
